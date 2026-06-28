@@ -3,6 +3,7 @@
 ## 🎯 Objetivo del Proyecto
 El objetivo principal de este análisis es cuantificar y visualizar la expansión de la mancha urbana (área construida) en los distintos barrios que conforman el cantón de Liberia, Costa Rica, evaluando los cambios ocurridos entre los años **2017** y **2025**.
 
+Link del visor:  https://asoto59g.github.io/Crecimiento_Urbano_Liberia_2017-2025/
 ---
 
 ## 🛠️ Metodología y Tecnologías Aplicadas
