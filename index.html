@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visor: Crecimiento Urbano Liberia (2017-2025)</title>
+    
+    <!-- ==================================================================== -->
+    <!-- ETIQUETAS OPEN GRAPH (Para que salga la imagen y título en WhatsApp, FB, etc.) -->
+    <!-- ==================================================================== -->
+    <meta property="og:title" content="Crecimiento Urbano Liberia (2017-2025)">
+    <meta property="og:description" content="Visor geográfico interactivo de la expansión de la mancha urbana en los barrios del cantón de Liberia mediante Inteligencia Artificial.">
+    
+    <!-- ⚠️ IMPORTANTE: Para Redes Sociales es MUY recomendado usar la URL ABSOLUTA (Ej: https://tu-usuario.github.io/tu-repo/preview.jpg) -->
+    <!-- Si la imagen no se muestra al compartir el link, cambia "preview.jpg" por tu enlace web completo. -->
+    <meta property="og:image" content="preview.jpg">
+    
+    <!-- ⚠️ REEMPLAZA ESTE LINK CON LA URL DE TU GITHUB PAGES -->
+    <meta property="og:url" content="https://tu-usuario.github.io/tu-repositorio/">
+    <meta property="og:type" content="website">
+
+    <style>
+        /* Estilos para que el visor ocupe el 100% de la pantalla sin bordes */
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden; 
+        }
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <!-- El iFrame carga la App de Earth Engine pero oculta la URL larga original -->
+    <iframe src="https://api-project-732156244341.projects.earthengine.app/view/crecurbliberia2017-2025"></iframe>
+</body>
+</html>
