@@ -42,3 +42,4 @@ Con el modelo de Random Forest entrenado, se procedió a clasificar los *Embeddi
 Todo este flujo de trabajo se encuentra codificado en un script de JavaScript de *Google Earth Engine Code Editor*. Para compartir los resultados interactivamente con terceros, el código está optimizado para publicarse como una **Earth Engine App** de acceso público con un solo clic, sin requerir configuraciones adicionales de servidores o bases de datos locales.
 
 Code GEE:  https://code.earthengine.google.com/e8fa95e794948a6b1ae66bb57ee7b398
+Requiere cuenta Google
