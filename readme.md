@@ -1,7 +1,7 @@
 # Análisis de Crecimiento Urbano en el Cantón de Liberia (2017-2025)
 
 ## 🎯 Objetivo del Proyecto
-El objetivo principal de este análisis es cuantificar y visualizar la expansión de la mancha urbana (área construida) en los distintos barrios que conforman el cantón de Liberia, Costa Rica, evaluando los cambios ocurridos entre los años **2017** y **2025**.
+El objetivo principal de este análisis es cuantificar y visualizar la expansión de la mancha urbana (área construida) en los distintos barrios que conforman el cantón de Liberia, Costa Rica, evaluando los cambios ocurridos entre los años **2017** y **2025**. Se usa dataset `GOOGLE/SATELLITE_EMBEDDING/V1/ANNUAL` en vez de **Dynamic World**, porque con el primero se logra mayor exactitud
 
 Link del visor:  https://asoto59g.github.io/Crecimiento_Urbano_Liberia_2017-2025/
 ---
